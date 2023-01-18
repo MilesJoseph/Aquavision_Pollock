@@ -1,2 +1,17 @@
 ffmpeg -rtsp_transport tcp -i 'rtsp://10.42.0.92:8554/test' -r 10 -c:v h264 -crf 23 -x264-params keyint=60:min-keyint=60 -an -f ssegment -segment_time 60 -strftime 1 /home/miles/Documents/line_2/%Y%m%d_%H%M%S.ts -abort_on empty_output
 
+
+ffmpeg -rtsp_transport tcp -i rtps://10.42.0.1:8554/test -c copy -f segment -segment_time 600 /home/miles/Documents/stream_piece_%d.mp4
+
+
+ffmpeg -rtsp_transport tcp -i rtps://10.42.0.1:8554/test -c copy -f segment -segment_time 600 stream_piece_%d.mp4
+
+
+ffmpeg -hide_banner -y -loglevel error -rtsp_transport tcp -use_wallclock_as_timestamps 1 -i rtsp://10.42.0.1:8554/test  -vcodec copy -acodec copy -f segment -reset_timestamps 1 -segment_time 10 -segment_format mkv -segment_atclocktime 1 -strftime 1 /home/miles/Documents/ %Y%m%dT%H%M%S.mkv
+
+
+ffmpeg -hide_banner -y -loglevel error -rtsp_transport tcp -use_wallclock_as_timestamps 1 -i rtsp://10.42.0.1:8554/test  -vcodec copy -acodec copy -f segment -reset_timestamps 1 -segment_time 1 -segment_format mkv -segment_atclocktime 1 -strftime 1 /home/miles/Documents/ %Y%m%dT%H%M%S.mkv
+
+
+
+
