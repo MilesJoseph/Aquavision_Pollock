@@ -114,7 +114,7 @@
         <Selector Name="SequencerSetSelector" Type="Enumeration" SelectedFeatures="98">
             <SelectorCombination Entry="Set0" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set0" Feature="ExposureTime" Type="Float">10350.869141</SelectorCombination>
+            <SelectorCombination Entry="Set0" Feature="ExposureTime" Type="Float">7000.869141</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="SequencerFeatureSelector" Type="Enumeration">Width</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="ColorTransformationValue" Type="Float">1.000000</SelectorCombination>
@@ -208,7 +208,7 @@
             <SelectorCombination Entry="Set1" Feature="SequencerPathSelector" Type="Enumeration">Path0</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set2" Feature="ExposureTime" Type="Float">10350.869141</SelectorCombination>
+            <SelectorCombination Entry="Set2" Feature="ExposureTime" Type="Float">7000.869141</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="SequencerFeatureSelector" Type="Enumeration">Width</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="ColorTransformationValue" Type="Float">1.000000</SelectorCombination>
@@ -255,7 +255,7 @@
             <SelectorCombination Entry="Set2" Feature="SequencerPathSelector" Type="Enumeration">Path0</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set3" Feature="ExposureTime" Type="Float">10350.869141</SelectorCombination>
+            <SelectorCombination Entry="Set3" Feature="ExposureTime" Type="Float">7000.869141</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="SequencerFeatureSelector" Type="Enumeration">Width</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="ColorTransformationValue" Type="Float">1.000000</SelectorCombination>
@@ -302,7 +302,7 @@
             <SelectorCombination Entry="Set3" Feature="SequencerPathSelector" Type="Enumeration">Path0</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set4" Feature="ExposureTime" Type="Float">10350.869141</SelectorCombination>
+            <SelectorCombination Entry="Set4" Feature="ExposureTime" Type="Float">7000.869141</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="SequencerFeatureSelector" Type="Enumeration">Width</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="ColorTransformationValue" Type="Float">1.000000</SelectorCombination>
@@ -349,7 +349,7 @@
             <SelectorCombination Entry="Set4" Feature="SequencerPathSelector" Type="Enumeration">Path0</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set5" Feature="ExposureTime" Type="Float">10350.869141</SelectorCombination>
+            <SelectorCombination Entry="Set5" Feature="ExposureTime" Type="Float">7000.869141</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="SequencerFeatureSelector" Type="Enumeration">Width</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="ColorTransformationValue" Type="Float">1.000000</SelectorCombination>
@@ -396,7 +396,7 @@
             <SelectorCombination Entry="Set5" Feature="SequencerPathSelector" Type="Enumeration">Path0</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set6" Feature="ExposureTime" Type="Float">10350.869141</SelectorCombination>
+            <SelectorCombination Entry="Set6" Feature="ExposureTime" Type="Float">7000.869141</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="SequencerFeatureSelector" Type="Enumeration">Width</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="ColorTransformationValue" Type="Float">1.000000</SelectorCombination>
@@ -443,7 +443,7 @@
             <SelectorCombination Entry="Set6" Feature="SequencerPathSelector" Type="Enumeration">Path0</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set7" Feature="ExposureTime" Type="Float">10350.869141</SelectorCombination>
+            <SelectorCombination Entry="Set7" Feature="ExposureTime" Type="Float">7000.869141</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="SequencerFeatureSelector" Type="Enumeration">Width</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="ColorTransformationValue" Type="Float">1.000000</SelectorCombination>
@@ -490,7 +490,7 @@
             <SelectorCombination Entry="Set7" Feature="SequencerPathSelector" Type="Enumeration">Path0</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set8" Feature="ExposureTime" Type="Float">10350.869141</SelectorCombination>
+            <SelectorCombination Entry="Set8" Feature="ExposureTime" Type="Float">7000.869141</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="SequencerFeatureSelector" Type="Enumeration">Width</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="ColorTransformationValue" Type="Float">1.000000</SelectorCombination>
@@ -537,7 +537,7 @@
             <SelectorCombination Entry="Set8" Feature="SequencerPathSelector" Type="Enumeration">Path0</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set9" Feature="ExposureTime" Type="Float">10350.869141</SelectorCombination>
+            <SelectorCombination Entry="Set9" Feature="ExposureTime" Type="Float">7000.869141</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="SequencerFeatureSelector" Type="Enumeration">Width</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="ColorTransformationValue" Type="Float">1.000000</SelectorCombination>
@@ -584,7 +584,7 @@
             <SelectorCombination Entry="Set9" Feature="SequencerPathSelector" Type="Enumeration">Path0</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set10" Feature="ExposureTime" Type="Float">10350.869141</SelectorCombination>
+            <SelectorCombination Entry="Set10" Feature="ExposureTime" Type="Float">7000.869141</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="SequencerFeatureSelector" Type="Enumeration">Width</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="ColorTransformationValue" Type="Float">1.000000</SelectorCombination>
@@ -631,7 +631,7 @@
             <SelectorCombination Entry="Set10" Feature="SequencerPathSelector" Type="Enumeration">Path0</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set11" Feature="ExposureTime" Type="Float">10350.869141</SelectorCombination>
+            <SelectorCombination Entry="Set11" Feature="ExposureTime" Type="Float">7000.869141</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="SequencerFeatureSelector" Type="Enumeration">Width</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="ColorTransformationValue" Type="Float">1.000000</SelectorCombination>
@@ -678,7 +678,7 @@
             <SelectorCombination Entry="Set11" Feature="SequencerPathSelector" Type="Enumeration">Path0</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set12" Feature="ExposureTime" Type="Float">10350.869141</SelectorCombination>
+            <SelectorCombination Entry="Set12" Feature="ExposureTime" Type="Float">7000.869141</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="SequencerFeatureSelector" Type="Enumeration">Width</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="ColorTransformationValue" Type="Float">1.000000</SelectorCombination>
@@ -725,7 +725,7 @@
             <SelectorCombination Entry="Set12" Feature="SequencerPathSelector" Type="Enumeration">Path0</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set13" Feature="ExposureTime" Type="Float">10350.869141</SelectorCombination>
+            <SelectorCombination Entry="Set13" Feature="ExposureTime" Type="Float">7000.869141</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="SequencerFeatureSelector" Type="Enumeration">Width</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="ColorTransformationValue" Type="Float">1.000000</SelectorCombination>
@@ -772,7 +772,7 @@
             <SelectorCombination Entry="Set13" Feature="SequencerPathSelector" Type="Enumeration">Path0</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set14" Feature="ExposureTime" Type="Float">10350.869141</SelectorCombination>
+            <SelectorCombination Entry="Set14" Feature="ExposureTime" Type="Float">7000.869141</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="SequencerFeatureSelector" Type="Enumeration">Width</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="ColorTransformationValue" Type="Float">1.000000</SelectorCombination>
@@ -819,7 +819,7 @@
             <SelectorCombination Entry="Set14" Feature="SequencerPathSelector" Type="Enumeration">Path0</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set15" Feature="ExposureTime" Type="Float">10350.869141</SelectorCombination>
+            <SelectorCombination Entry="Set15" Feature="ExposureTime" Type="Float">7000.869141</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="SequencerFeatureSelector" Type="Enumeration">Width</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="ColorTransformationValue" Type="Float">1.000000</SelectorCombination>
