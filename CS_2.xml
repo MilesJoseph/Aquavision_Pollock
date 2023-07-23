@@ -126,7 +126,7 @@
             <SelectorCombination Entry="Set0" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set0" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set0" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
@@ -203,7 +203,7 @@
             <SelectorCombination Entry="Set1" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set1" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set1" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
@@ -280,7 +280,7 @@
             <SelectorCombination Entry="Set2" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set2" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set2" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
@@ -357,7 +357,7 @@
             <SelectorCombination Entry="Set3" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set3" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set3" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
@@ -434,7 +434,7 @@
             <SelectorCombination Entry="Set4" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set4" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set4" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
@@ -511,7 +511,7 @@
             <SelectorCombination Entry="Set5" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set5" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set5" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
@@ -588,7 +588,7 @@
             <SelectorCombination Entry="Set6" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set6" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set6" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
@@ -665,7 +665,7 @@
             <SelectorCombination Entry="Set7" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set7" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set7" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
@@ -742,7 +742,7 @@
             <SelectorCombination Entry="Set8" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set8" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set8" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
@@ -819,7 +819,7 @@
             <SelectorCombination Entry="Set9" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set9" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set9" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
@@ -896,7 +896,7 @@
             <SelectorCombination Entry="Set10" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set10" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set10" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
@@ -973,7 +973,7 @@
             <SelectorCombination Entry="Set11" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set11" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set11" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
@@ -1050,7 +1050,7 @@
             <SelectorCombination Entry="Set12" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set12" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set12" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
@@ -1127,7 +1127,7 @@
             <SelectorCombination Entry="Set13" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set13" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set13" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
@@ -1204,7 +1204,7 @@
             <SelectorCombination Entry="Set14" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set14" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set14" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
@@ -1281,7 +1281,7 @@
             <SelectorCombination Entry="Set15" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set15" Feature="Width" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set15" Feature="Width" Type="Integer">1000</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
