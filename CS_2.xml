@@ -7,7 +7,7 @@
         <LoggingLevel Value="4" Description="All messages will be logged (Info, Error, Warning, Debug, Trace)" />
     </Logging>
 </SettingsStruct>
-<CameraSettings CameraID="DEV_1AB22C026085" CameraModel="1800 U-507c" FeatureCount="203">
+<CameraSettings CameraID="DEV_1AB22C02DEF0" CameraModel="1800 U-507c" FeatureCount="203">
     <FeatureGroup Count="11">
         <Feature Name="DeviceIndicatorLuminance" Type="Integer" Access="R/W">10</Feature>
         <Feature Name="DeviceIndicatorMode" Type="Enumeration" Access="R/W">Active</Feature>
