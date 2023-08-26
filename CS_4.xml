@@ -199,7 +199,7 @@
             <SelectorCombination Entry="Set1" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set1" Feature="ExposureTime" Type="Float">5000.869141</SelectorCombination>
+            <SelectorCombination Entry="Set1" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
