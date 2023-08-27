@@ -126,13 +126,13 @@
             <SelectorCombination Entry="Set0" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set0" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set0" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set0" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set0" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -199,17 +199,17 @@
             <SelectorCombination Entry="Set1" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set1" Feature="ExposureTime" Type="Float">2300</SelectorCombination>
+            <SelectorCombination Entry="Set1" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set1" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set1" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set1" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set1" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -276,17 +276,17 @@
             <SelectorCombination Entry="Set2" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set2" Feature="ExposureTime" Type="Float">2300</SelectorCombination>
+            <SelectorCombination Entry="Set2" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set2" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set2" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set2" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set2" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -353,17 +353,17 @@
             <SelectorCombination Entry="Set3" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set3" Feature="ExposureTime" Type="Float">2300</SelectorCombination>
+            <SelectorCombination Entry="Set3" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set3" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set3" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set3" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set3" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -430,17 +430,17 @@
             <SelectorCombination Entry="Set4" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set4" Feature="ExposureTime" Type="Float">2300</SelectorCombination>
+            <SelectorCombination Entry="Set4" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set4" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set4" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set4" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set4" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -507,17 +507,17 @@
             <SelectorCombination Entry="Set5" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set5" Feature="ExposureTime" Type="Float">2300</SelectorCombination>
+            <SelectorCombination Entry="Set5" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set5" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set5" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set5" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set5" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -584,17 +584,17 @@
             <SelectorCombination Entry="Set6" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set6" Feature="ExposureTime" Type="Float">2300</SelectorCombination>
+            <SelectorCombination Entry="Set6" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set6" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set6" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set6" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set6" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -661,17 +661,17 @@
             <SelectorCombination Entry="Set7" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set7" Feature="ExposureTime" Type="Float">2300</SelectorCombination>
+            <SelectorCombination Entry="Set7" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set7" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set7" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set7" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set7" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -738,17 +738,17 @@
             <SelectorCombination Entry="Set8" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set8" Feature="ExposureTime" Type="Float">2300</SelectorCombination>
+            <SelectorCombination Entry="Set8" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set8" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set8" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set8" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set8" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -815,17 +815,17 @@
             <SelectorCombination Entry="Set9" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set9" Feature="ExposureTime" Type="Float">2300</SelectorCombination>
+            <SelectorCombination Entry="Set9" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set9" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set9" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set9" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set9" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -892,17 +892,17 @@
             <SelectorCombination Entry="Set10" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set10" Feature="ExposureTime" Type="Float">2300</SelectorCombination>
+            <SelectorCombination Entry="Set10" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set10" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set10" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set10" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set10" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -969,17 +969,17 @@
             <SelectorCombination Entry="Set11" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set11" Feature="ExposureTime" Type="Float">2300</SelectorCombination>
+            <SelectorCombination Entry="Set11" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set11" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set11" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set11" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set11" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -1046,17 +1046,17 @@
             <SelectorCombination Entry="Set12" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set12" Feature="ExposureTime" Type="Float">2300</SelectorCombination>
+            <SelectorCombination Entry="Set12" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set12" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set12" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set12" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set12" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -1123,17 +1123,17 @@
             <SelectorCombination Entry="Set13" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set13" Feature="ExposureTime" Type="Float">2300</SelectorCombination>
+            <SelectorCombination Entry="Set13" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set13" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set13" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set13" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set13" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -1200,17 +1200,17 @@
             <SelectorCombination Entry="Set14" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set14" Feature="ExposureTime" Type="Float">2300</SelectorCombination>
+            <SelectorCombination Entry="Set14" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set14" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set14" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set14" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set14" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -1277,17 +1277,17 @@
             <SelectorCombination Entry="Set15" Feature="DeviceLinkThroughputLimitMode" Type="Enumeration">On</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="ExposureAutoMin" Type="Float">87.596001</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="ExposureAutoMax" Type="Float">8999988.000000</SelectorCombination>
-            <SelectorCombination Entry="Set15" Feature="ExposureTime" Type="Float">2300</SelectorCombination>
+            <SelectorCombination Entry="Set15" Feature="ExposureTime" Type="Float">2000.869141</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="DeviceLinkThroughputLimit" Type="Integer">200000000</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="DevicePowerSavingMode" Type="Enumeration">Disabled</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="SensorShutterMode" Type="Enumeration">GlobalShutter</SelectorCombination>
-            <SelectorCombination Entry="Set15" Feature="Width" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set15" Feature="Width" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="OffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="AutoModeRegionWidth" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set15" Feature="Height" Type="Integer">2464</SelectorCombination>
+            <SelectorCombination Entry="Set15" Feature="Height" Type="Integer">640</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
