@@ -132,7 +132,7 @@
             <SelectorCombination Entry="Set0" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set0" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set0" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set0" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -209,7 +209,7 @@
             <SelectorCombination Entry="Set1" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set1" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set1" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set1" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -286,7 +286,7 @@
             <SelectorCombination Entry="Set2" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set2" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set2" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set2" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -363,7 +363,7 @@
             <SelectorCombination Entry="Set3" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set3" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set3" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set3" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -440,7 +440,7 @@
             <SelectorCombination Entry="Set4" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set4" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set4" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set4" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -517,7 +517,7 @@
             <SelectorCombination Entry="Set5" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set5" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set5" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set5" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -594,7 +594,7 @@
             <SelectorCombination Entry="Set6" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set6" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set6" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set6" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -671,7 +671,7 @@
             <SelectorCombination Entry="Set7" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set7" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set7" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set7" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -748,7 +748,7 @@
             <SelectorCombination Entry="Set8" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set8" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set8" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set8" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -825,7 +825,7 @@
             <SelectorCombination Entry="Set9" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set9" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set9" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set9" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -902,7 +902,7 @@
             <SelectorCombination Entry="Set10" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set10" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set10" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set10" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -979,7 +979,7 @@
             <SelectorCombination Entry="Set11" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set11" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set11" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set11" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -1056,7 +1056,7 @@
             <SelectorCombination Entry="Set12" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set12" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set12" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set12" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -1133,7 +1133,7 @@
             <SelectorCombination Entry="Set13" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set13" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set13" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set13" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -1210,7 +1210,7 @@
             <SelectorCombination Entry="Set14" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set14" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set14" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set14" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
@@ -1287,7 +1287,7 @@
             <SelectorCombination Entry="Set15" Feature="AutoModeRegionOffsetX" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="AutoModeRegionHeight" Type="Integer">0</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="AutoModeRegionOffsetY" Type="Integer">720</SelectorCombination>
-            <SelectorCombination Entry="Set15" Feature="Height" Type="Integer">640</SelectorCombination>
+            <SelectorCombination Entry="Set15" Feature="Height" Type="Integer">2464</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="OffsetY" Type="Integer">720</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="BinningHorizontalMode" Type="Enumeration">Sum</SelectorCombination>
             <SelectorCombination Entry="Set15" Feature="BinningHorizontal" Type="Integer">1</SelectorCombination>
